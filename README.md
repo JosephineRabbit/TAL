@@ -49,6 +49,6 @@
 - <span id = "2165">[[S-CNN]](#1165)</span> [**Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs**](https://arxiv.org/abs/1601.02129) - Zheng Shou et al, `CVPR 2016`. [[code]](<https://github.com/zhengshou/scnn/>)
 - <span id = "2164">[[PSDF]](#1164)</span> [**Temporal Action Localization with Pyramid of Score Distribution Features**](https://ieeexplore.ieee.org/abstract/document/7780706) - Jun Yuan et al, `CVPR 2016`.
 - <span id = "2163">[[FG]](#1163)</span>  [**End-to-end Learning of Action Detection from Frame Glimpses in Videos**](https://arxiv.org/abs/1511.06984) - Serena Yeung et al, `CVPR 2016`.
-- <span id = "2162">[[SLM]](#1162)</span> [**Temporal Action Detection Using a Statistical Language Model**](https://ieeexplore.ieee.org/document/7780710) - Alexander Richard et al, `CVPR 2016`.
-- <span id = "2161">[[DAPs]](#1161)</span> [**DAPs: Deep Action Proposals for Action Understanding**](https://link.springer.com/chapter/10.1007%2F978-3-319-46487-9_47) - Victor Escorcia et al, `ECCV 2016`.
+- <span id = "2162">[[SLM]](#1162)</span> [**Temporal Action Detection Using a Statistical Language Model**](http://openaccess.thecvf.com/content_cvpr_2016/papers/Richard_Temporal_Action_Detection_CVPR_2016_paper.pdf) - Alexander Richard et al, `CVPR 2016`.
+- <span id = "2161">[[DAPs]](#1161)</span> [**DAPs: Deep Action Proposals for Action Understanding**](https://repository.kaust.edu.sa/bitstream/handle/10754/604944/DAPs+Deep+Action+Proposals+for+Action+Understanding.pdf;jsessionid=88CAB9DCA09ADAF81A2A573305B51F76?sequence=4) - Victor Escorcia et al, `ECCV 2016`.
 
