@@ -5,7 +5,7 @@
 
 ### <span id = "tal-2020"> 2020 </span>
 - <span id = '2209'></span> [**ZSTAD: Zero-Shot Temporal Activity Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_ZSTAD_Zero-Shot_Temporal_Activity_Detection_CVPR_2020_paper.pdf) - Lingling Zhang et al, `CVPR 2020`.
-- <span id = "2208"></span> [**Learning to Discriminate Information for Online Action Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.pdf) - Hyunjun Eun et al, 
+- <span id = "2208"></span> [**Learning to Discriminate Information for Online Action Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.pdf) - Hyunjun Eun et al, `CVPR 2020`.
 - <span id = "2207"></span> [**Learning Temporal Co-Attention Models for Unsupervised Video Action Localization**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.pdf) -GUoqiang Gong et al,`CVPR 2020`.
 - <span id = "2206"></span> [**Constraining Temporal Relationship for Action Localization**](https://arxiv.org/pdf/2002.07358.pdf) - Peisen Zhao et al, `arxiv 2020`.
 - <span id = "2205"></span> [**Weakly-Supervised_Action_Localization by Generative Attention Modeling**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling_CVPR_2020_paper.pdf) - Baifeng Shi et al, `CVPR 2020`.
@@ -52,5 +52,4 @@
 - <span id = "2163">[[FG]](#1163)</span>  [**End-to-end Learning of Action Detection from Frame Glimpses in Videos**](https://arxiv.org/abs/1511.06984) - Serena Yeung et al, `CVPR 2016`.
 - <span id = "2162">[[SLM]](#1162)</span> [**Temporal Action Detection Using a Statistical Language Model**](https://ieeexplore.ieee.org/document/7780710) - Alexander Richard et al, `CVPR 2016`.
 - <span id = "2161">[[DAPs]](#1161)</span> [**DAPs: Deep Action Proposals for Action Understanding**](https://link.springer.com/chapter/10.1007%2F978-3-319-46487-9_47) - Victor Escorcia et al, `ECCV 2016`.
-**]
-=======
+
