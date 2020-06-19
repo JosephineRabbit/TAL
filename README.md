@@ -3,8 +3,8 @@
 ## <span id = "tal-paper"> Papers </span>
 
 ### <span id = "tal-2020"> 2020 </span>
-- <span id = "2206">(#1206)</span> [**Constraining Temporal Relationship for Action Localization**]
-- <span id = "2205">(#1205)</span> [**Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al, `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
+- <span id = "2206"></span> [**Constraining Temporal Relationship for Action Localization**](https://arxiv.org/pdf/2002.07358.pdf) - Peisen Zhao et al, `CVPR 2020`. [[code]](<tbd>)
+- <span id = "2205"></span> [**Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling**](https://arxiv.org/pdf/2003.12424.pdf) - Baifeng Shi et al, `CVPR 2020`. [[code]](<tbd>)
 - <span id = "2204">[[G-TAD]](#1204)</span> [**G-TAD: Sub-Graph Localization for Temporal Action Detection**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al, `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
 - <span id = "2203">[[DBG]](#1203)</span> [**Fast Learning of Temporal Action Proposal via Dense Boundary Generator**](https://arxiv.org/pdf/1911.04127) - Chunming Lin et al, `AAAI 2020`. [[code]](<https://github.com/Tencent/ActionDetection-DBG>)
 - <span id = "2202">[[PBRNet]](#1202)</span> [**Progressive Boundary Refinement Network for Temporal Action Detection**](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf) - Qinying Liu et al, `AAAI 2020`.
