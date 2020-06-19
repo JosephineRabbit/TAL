@@ -1,6 +1,6 @@
 ## <span id = "tal"> **Temporal Action Localization** </span>
 
-## <span id = "tal-paper"> Papers </span>
+## <span id = "tal-paper"> Reading List </span>
 
 ### <span id = "tal-2020"> 2020 </span>
 - <span id = '2209'></span> [**ZSTAD: Zero-Shot Temporal Activity Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_ZSTAD_Zero-Shot_Temporal_Activity_Detection_CVPR_2020_paper.pdf) - Lingling Zhang et al, `CVPR 2020`.
