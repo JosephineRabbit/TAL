@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## <span id = "tal"> **Temporal Action Localization** </span>
 
 ## <span id = "tal-paper"> Papers </span>
