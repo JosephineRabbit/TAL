@@ -1,30 +1,12 @@
-# Awesome Temporal Action Localization: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of temporal action localization/detection and related area (e.g. temporal action proposal) resources.
-
-## Contents
-- [Temporal Action Localization](#tal)
-    - [Paper](#tal-paper)
-        - [2020](#tal-2020) - [2019](#tal-2019) - [2018](#tal-2018) - [2017](#tal-2017) - [2016](#tal-2016)
-    - [Dataset](#tal-data)
-    - [Benchmark Results](#tal-result)
-        - [THUMOS14](#tal-result-thumos14) - [ActivityNet v1.3](#tal-result-activitynet13)
-- [Weakly Supervised Temporal Action Localization](#wstal)
-    - [Paper](#wstal-paper)
-        - [2020](#wstal-2020) - [2019](#wstal-2019) - [2018](#wstal-2018) - [2017](#wstal-2017)
-    - [Dataset](#wstal-data)
-    - [Benchmark Results](#wstal-result)
-        - [THUMOS14](#wstal-thumos14) - [ActivityNet v1.3](#wstal-activitynet13) - [ActivityNet v1.2](#wstal-activitynet12)
-
----
-
 ## <span id = "tal"> **Temporal Action Localization** </span>
 
 ## <span id = "tal-paper"> Papers </span>
 
 ### <span id = "tal-2020"> 2020 </span>
-
-- <span id = "2204">[[DBG]](#1204)</span> [**Fast Learning of Temporal Action Proposal via Dense Boundary Generator**](https://arxiv.org/pdf/1911.04127) - Chunming Lin et al, `AAAI 2020`. [[code]](<https://github.com/Tencent/ActionDetection-DBG>)
-- <span id = "2203">[[G-TAD]](#1203)</span> [**G-TAD: Sub-Graph Localization for Temporal Action Detection**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al, `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
+- <span id = "2206">(#1206)</span> [**Constraining Temporal Relationship for Action Localization**]
+- <span id = "2205">(#1205)</span> [**Weakly-Supervised_Action_Localization_by_Generative_Attention_Modeling**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al, `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
+- <span id = "2204">[[G-TAD]](#1204)</span> [**G-TAD: Sub-Graph Localization for Temporal Action Detection**](https://arxiv.org/abs/1911.11462) - Mengmeng Xu et al, `CVPR 2020`. [[code]](<https://github.com/frostinassiky/gtad>)
+- <span id = "2203">[[DBG]](#1203)</span> [**Fast Learning of Temporal Action Proposal via Dense Boundary Generator**](https://arxiv.org/pdf/1911.04127) - Chunming Lin et al, `AAAI 2020`. [[code]](<https://github.com/Tencent/ActionDetection-DBG>)
 - <span id = "2202">[[PBRNet]](#1202)</span> [**Progressive Boundary Refinement Network for Temporal Action Detection**](https://aaai.org/Papers/AAAI/2020GB/AAAI-LiuQ.4870.pdf) - Qinying Liu et al, `AAAI 2020`.
 - <span id = "2201">[[AGCN]](#1201)</span> [**Graph Attention based Proposal 3D ConvNets for Action Detection**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf) - Jun Li et al, `AAAI 2020`.
 
