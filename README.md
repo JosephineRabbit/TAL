@@ -3,7 +3,10 @@
 ## <span id = "tal-paper"> Reading List([follows](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)) </span>
 
 ### <span id = "tal-2020"> 2020 </span>
-- <san id = '2210'></span> [**Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network:cvpr**](https://arxiv.org/pdf/2003.04145.pdf) - Jialin Gao et al, `arxiv 2020`
+- <span id = '2212'></span> [**SF-Net: Single-Frame Supervision for
+Temporal Action Localization**](https://arxiv.org/pdf/2003.06845.pdf) - Fan Ma et al, `arxiv 2020`.
+- <span id = '2211'></span> [**ActBERT: Learning Global-Local Video-Text Representations**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf) - Linchao Zhu et al, `cvpr2020`
+- <span id = '2210'></span> [**Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network**](https://arxiv.org/pdf/2003.04145.pdf) - Jialin Gao et al, `AAAI 2020`
 - <span id = '2209'></span> [**ZSTAD: Zero-Shot Temporal Activity Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_ZSTAD_Zero-Shot_Temporal_Activity_Detection_CVPR_2020_paper.pdf) - Lingling Zhang et al, `CVPR 2020`.
 - <span id = "2208"></span> [**Learning to Discriminate Information for Online Action Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Eun_Learning_to_Discriminate_Information_for_Online_Action_Detection_CVPR_2020_paper.pdf) - Hyunjun Eun et al, `CVPR 2020`.
 - <span id = "2207"></span> [**Learning Temporal Co-Attention Models for Unsupervised Video Action Localization**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.pdf) -Guoqiang Gong et al,`CVPR 2020`.
@@ -15,7 +18,6 @@
 - <span id = "2201">[[AGCN]](#1201)</span> [**Graph Attention based Proposal 3D ConvNets for Action Detection**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiJ.1424.pdf) - Jun Li et al, `AAAI 2020`.
 
 ### <span id = "tal-2019"> 2019 </span>
-
 - <span id = "2196">[[PGCN]](#1197)</span> [**Graph Convolutional Networks for Temporal Action Localization**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.pdf) - Runhao Zeng et al, `ICCV 2019`. [[code]](<https://github.com/Alvin-Zeng/PGCN>)
 - <span id = "2195">[[RAM]](#1196)</span> [**Graph Convolutional Networks for Temporal Action Localization**](https://ieeexplore.ieee.org/document/8933113) - Peihao Chen et al, `TMM 2019`. 
 - <span id = "2194">[[BMN]](#1195)</span> [**BMN: Boundary-Matching Network for Temporal Action Proposal Generation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_BMN_Boundary-Matching_Network_for_Temporal_Action_Proposal_Generation_ICCV_2019_paper.pdf) - Tianwei Lin et al, `ICCV 2019`.
