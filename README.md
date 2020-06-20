@@ -3,8 +3,9 @@
 ## <span id = "tal-paper"> Reading List([follows](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)) </span>
 
 ### <span id = "tal-2020"> 2020 </span>
+- <span id = '2213'></span> [**Learning Temporal Co-Attention Models for Unsupervised Video Action Localization**](http://openaccess.thecvf.com/content_CVPR_2020/html/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.html) - Guoqiang Gong et al,
 - <span id = '2212'></span> [**SF-Net: Single-Frame Supervision for
-Temporal Action Localization**](https://arxiv.org/pdf/2003.06845.pdf) - Fan Ma et al, `arxiv 2020`.
+Temporal Action Localization**](https://arxiv.org/pdf/2003.06845.pdf) - Fan Ma et al, `arxiv 2020`. `cvpr2020`
 - <span id = '2211'></span> [**ActBERT: Learning Global-Local Video-Text Representations**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf) - Linchao Zhu et al, `cvpr2020`
 - <span id = '2210'></span> [**Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network**](https://arxiv.org/pdf/2003.04145.pdf) - Jialin Gao et al, `AAAI 2020`
 - <span id = '2209'></span> [**ZSTAD: Zero-Shot Temporal Activity Detection**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_ZSTAD_Zero-Shot_Temporal_Activity_Detection_CVPR_2020_paper.pdf) - Lingling Zhang et al, `CVPR 2020`.
