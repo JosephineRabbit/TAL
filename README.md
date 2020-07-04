@@ -1,8 +1,9 @@
 ## <span id = "tal"> **Temporal Action Localization** </span>
 
-## <span id = "tal-paper"> Reading List([follows](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization)) </span>
+## <span id = "tal-paper"> Reading List </span>
 
 ### <span id = "tal-2020"> 2020 </span>
+- <span id = '2215'></span> [**Relational Prototypical Network for Weakly Supervised Temporal Action Localization**](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-HuangL.1235.pdf), `AAAI2020`
 - <span id = '2214'></span> [**ActionBytes: Learning From Trimmed Videos to Localize Actions**](http://openaccess.thecvf.com/content_CVPR_2020/papers/Jain_ActionBytes_Learning_From_Trimmed_Videos_to_Localize_Actions_CVPR_2020_paper.pdf) - Mihir Jain et al, `cvpr2020`
 - <span id = '2213'></span> [**Learning Temporal Co-Attention Models for Unsupervised Video Action Localization**](http://openaccess.thecvf.com/content_CVPR_2020/html/Gong_Learning_Temporal_Co-Attention_Models_for_Unsupervised_Video_Action_Localization_CVPR_2020_paper.html) - Guoqiang Gong et al, `cvpr2020`.
 - <span id = '2212'></span> [**SF-Net: Single-Frame Supervision for
