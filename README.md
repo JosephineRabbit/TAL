@@ -3,6 +3,11 @@
 ## <span id = "tal-paper"> Reading List </span>
 
 ### <span id = "tal-2020"> 2020 </span>
+- <span id = '2224'></span> [**Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning**](https://arxiv.org/pdf/2004.00163.pdf) - Zhekun Luo et al,`ECCV2020`
+- <span id = '2223'></span> [**CFAD: Coarse-to-Fine Action Detector for Spatiotemporal Action Localization**],`ECCV2020`
+- <span id = '2222'></span> [**Action Localization through Continual Predictive Learning**](https://arxiv.org/pdf/2003.12185.pdf) - Sathyanarayanan N. Aakur et al, `ECCV2020`
+- <span id = '2221'></span> [**Bottom-Up Temporal Action Localization with Mutual Regularization**](https://arxiv.org/pdf/2002.07358.pdf) - Peisen Zhao et al, `ECCV2020`
+- <span id = '2220'></span> [**Two-Stream Consensus Networks for Weakly-Supervised Temporal Action Localization**] `ECCV2020`
 - <span id = '2219'></span> [**Weakly-Supervised Action Localization with Expectation-Maximization Multi-Instance Learning**](https://arxiv.org/pdf/2004.00163.pdf) - Zhekun Luo et al, `ECCV2020`
 - <span id = '2218'></span> [**Uncertainty-Aware Weakly Supervised Action Detection from Untrimmed Videos**](https://arxiv.org/pdf/2007.10703.pdf) - Anurag Arnab et al, `ECCV2020`
 - <span id = '2217'></span> [**Few-shot Action Recognition via Permutation-invariant Attention**](https://arxiv.org/pdf/2001.03905.pdf) - Hongguang Zhang et al, `ECCV2020`
@@ -25,9 +30,9 @@ Temporal Action Localization**](https://arxiv.org/pdf/2003.06845.pdf) - Fan Ma e
 
 ### <span id = "tal-2019"> 2019 </span>
 - <span id = "2195">[[PGCN]](#1197)</span> [**Graph Convolutional Networks for Temporal Action Localization**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_Graph_Convolutional_Networks_for_Temporal_Action_Localization_ICCV_2019_paper.pdf) - Runhao Zeng et al, `ICCV 2019`. [[code]](<https://github.com/Alvin-Zeng/PGCN>)
-- <span id = "2194">[[BMN]](#1195)</span> [**BMN: Boundary-Matching Network for Temporal Action Proposal Generation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_BMN_Boundary-Matching_Network_for_Temporal_Action_Proposal_Generation_ICCV_2019_paper.pdf) - Tianwei Lin et al, `ICCV 2019`.
+- <span id = "2194">[[BMN]](#1195)</span> [**BMN: Boundary-Matching Network for Temporal Action Proposal Generation**](http://openaccess.thecvf.com/content_ICCV_2019/papers/Lin_BMN_Boundary-Matching_Network_for_Temporal_Action_Proposal_Generation_ICCV_2019_paper.pdf) - Tianwei Lin et al, `ICCV 2019`.[[code]](<https://github.com/JJBOY/BMN-Boundary-Matching-Network>)
 - <span id = "2193">[[GTAN]](#1194)</span> [**Gaussian Temporal Awareness Networks for Action Localization**](https://arxiv.org/abs/1909.03877) - Fuchen Long et al, `CVPR 2019`.
-- <span id = "2190">[[STEP]](#1193)</span> [**STEP: Spatio-Temporal Progressive Learning for Video Action Detection**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_STEP_Spatio-Temporal_Progressive_Learning_for_Video_Action_Detection_CVPR_2019_paper.pdf) - Xitong Yang et al,`CVPR 2019`
+- <span id = "2190">[[STEP]](#1193)</span> [**STEP: Spatio-Temporal Progressive Learning for Video Action Detection**](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_STEP_Spatio-Temporal_Progressive_Learning_for_Video_Action_Detection_CVPR_2019_paper.pdf) - Xitong Yang et al,`CVPR 2019`[[code]](<https://github.com/NVlabs/STEP>)
 - <span id = "2192">[[DBS]](#1192)</span> [**Video Imprint Segmentation for Temporal Action Detection in Untrimmed Videos**](https://www.aaai.org/ojs/index.php/AAAI/article/view/4846) - Zhanning Gao et al, `AAAI 2019`.
 - <span id = "2191">[[C-TCN]](#1191)</span> [**Deep Concept-wise Temporal Convolutional Networks for Action Localization**](https://arxiv.org/abs/1908.09442) - Xin Li et al, `arXiv 2019`.
 
@@ -45,7 +50,7 @@ Temporal Action Localization**](https://arxiv.org/pdf/2003.06845.pdf) - Fan Ma e
 
 - <span id = "2178">[[SSN]](#1178)</span> [**Temporal Action Detection with Structured Segment Networks**](https://arxiv.org/abs/1704.06228) - Yue Zhao et al, `ICCV 2017`. [[code]](<http://yjxiong.me/others/ssn>)
 - <span id = "2177">[[R-C3D]](#1177)</span> [**R-C3D: Region Convolutional 3D Network for Temporal Activity Detection**](https://arxiv.org/abs/1703.07814) - Huijuan Xu et al, `ICCV 2017`. [[code]](<http://ai.bu.edu/r-c3d/>)
-- <span id = "2176">[[TCN]](#1176)</span> [**Temporal Context Network for Activity Localization in Videos**](https://arxiv.org/abs/1708.02349) - Xiyang Dai et al, `ICCV 2017`.
+- <span id = "2176">[[TCN]](#1176)</span> [**Temporal Context Network for Activity Localization in Videos**](https://arxiv.org/abs/1708.02349) - Xiyang Dai et al, `ICCV 2017`. [[code]](https://github.com/vdavid70619/TCN)
 - <span id = "2175">[[TURN]](#1175)</span> [**TURN TAP: Temporal Unit Regression Network for Temporal Action Proposals**](https://arxiv.org/abs/1703.06189) - Jiyang Gao et al, `ICCV 2017`. [[code]](<https://github.com/jiyanggao/TURN-TAP>)
 - <span id = "2174">[[SST]](#1174)</span> [**SST: Single-Stream Temporal Action Proposals**](https://ieeexplore.ieee.org/abstract/document/8100158) - Shyamal Buch et al, `ICCV 2017`.
 - <span id = "2173">[[CDC]](#1173)</span> [**CDC: Convolutional-De-Convolutional Networks for Precise Temporal Action Localization in Untrimmed Videos**](https://arxiv.org/abs/1703.01515) - Zheng Shou et al, `CVPR 2017`. [[code]](<https://bibucket.org/columbiadvmm/cdc>)
